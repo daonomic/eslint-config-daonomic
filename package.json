@@ -1,0 +1,27 @@
+{
+  "name": "@daonomic/eslint-config",
+  "version": "0.0.0",
+  "description": "",
+  "main": "index.js",
+  "scripts": {
+    "test": "echo \"Error: no test specified\" && exit 1"
+  },
+  "repository": {
+    "type": "git",
+    "url": "git+https://github.com/daonomic/eslint-config-daonomic.git"
+  },
+  "author": "Daonomic team",
+  "license": "Apache-2.0",
+  "bugs": {
+    "url": "https://github.com/daonomic/eslint-config-daonomic/issues"
+  },
+  "homepage": "https://github.com/daonomic/eslint-config-daonomic#readme",
+  "dependencies": {
+    "eslint-config-prettier": "3.3.0",
+    "eslint-plugin-flowtype": "3.2.0",
+    "eslint-plugin-react": "7.11.1"
+  },
+  "peerDependencies": {
+    "eslint": ">= 5"
+  }
+}
